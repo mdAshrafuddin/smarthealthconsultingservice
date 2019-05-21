@@ -1,0 +1,480 @@
+
+.full-width{
+	/*width: 100%;*/
+	/*background-color: red;*/
+}
+
+.conatainer-full{
+	background-color: #2bbbad!important;
+	    
+	 }
+
+.box-show-none{
+	box-shadow: none;
+	webkit-box-shadow: none;
+}	 
+
+.logo-img {
+    width: 100px;
+    height: 100px;
+}
+
+#conatainer-white{
+	background-color: #ffffff;
+}
+.nav-white{
+	    color: #231f1f !important;
+}
+
+#conatainer-navbar{
+	    background-color: #080808!important;
+    height: 80px;
+    padding-top: 12px;
+}
+.bg-change{
+	    background-color: #080808!important;
+}
+
+.no-padding{
+  margin-right: 0;
+  margin-left: 0;
+
+
+    padding-right: 0;
+    padding-left: 0;
+  
+}
+#emegenery{
+	    padding-top: 80px;
+}
+
+/*patienssays css*/
+
+#patienssays{
+
+}
+
+/*====================================
+          testimonials-cover
+====================================*/
+
+  #testimonials {
+    margin: 60px 0px 50px 0px;
+}
+
+#testimonials-cover{
+    background-image: url(../img/bg-testominal//bg-testimonials.jpg);
+}
+#testimonials .content-box{
+    background-color: rgba(0,0,0,.1);
+}
+#customers-testimonials{
+    padding: 50px 0;
+}
+.testimonial img{
+    max-width: 120px;
+    margin: 0 auto 0 auto;
+    height: 120px;
+    border-radius: 120px 120px 120px 120px;
+}
+.testimonial blockquote{
+    border: 0;
+    font-family: Georgia,sans-serif;
+    font-style: italic;
+    color: #fff;
+    padding: 6px 150px;
+    position: relative;
+    
+}
+
+.testimonial blockquote p{
+    color: #fff;
+}
+.testimonial blockquote:before,
+.testimonial blockquote:after{
+    font-size: 80px;
+    font-style: normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+.testimonial blockquote:before{
+    content: "\201C";
+    top: 0;
+    left: 100px;
+}
+.testimonial blockquote:after{
+    content: "\201D";
+    bottom: 0;
+    right: 100px;
+}
+.testimonial-author p{
+    color: #fff;
+    font-size: 17px;
+}
+.testimonial-author p strong{
+    display: block;
+}
+.bg-parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.contant-title-white h3 {
+    color: #fff;
+}
+.content-box {
+    padding: 60px 0 60px 0;
+}
+.content-title h3 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+  /*  margin: 0 0 30px 0;*/
+}
+
+/*footer css*/
+.footer{
+    width: 100%;
+    background-color: #45526E;
+        margin-top: 80px;
+}
+
+/*Google map section for css*/
+.map-container-section {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-section iframe {
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+/*fontswesome*/
+
+.icon-font{
+     padding-right: 21px !important;
+    padding-left: 10px !important;
+    padding-top: 10px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 60px;
+    font-size: 30px;
+    margin-top: 8px;
+}
+
+.nav-bold{
+  font-weight: bold;
+}
+
+.height-navbar{
+  height: 150px;
+}
+.navbar-change{
+  color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar-change-cl{
+color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.carousel-caption-change{
+
+    position: absolute;
+  
+    bottom: 206px;
+    left: 15%;
+    z-index: 10;
+     padding-top: 20px; 
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+
+}
+.carousel-caption .change-carousel{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.change-carousel-p {
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 3px solid #ffffff;
+    width: 170px;
+    height: 44px;
+    padding: 3px;
+    text-align: center !important;
+    margin: 0 auto;
+
+  }
+  .card .card-body .card-all-change {
+    /* color: #ffffff; */
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 21px;
+}
+/*service_provider*/
+.service_provider{
+text-align: center;
+}
+
+.service_provider span{
+      text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+.service_provider p{
+      margin-top: 22px;
+      color: 41464B;
+}
+
+/*card-change*/
+.card-change{
+  text-align: center;
+}
+.card-title {
+    margin-bottom: .75rem;
+    text-transform: uppercase;
+}
+
+.bg-parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/*DOCTORS LIST*/
+  .doctor-list{  
+    border: 2px solid #F3F3F3;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -49px;
+    margin-bottom: 50px;
+    padding: 16px;
+}
+
+.list-group{
+      text-align: center;
+}
+
+.list-group ul {
+
+}
+
+ul.list-group li{
+ 
+
+      padding: 32px;
+}
+
+ul.list-group li:hover,ul.list-group li a:hover,ul.list-group li a:focus{
+  background-color: #000;
+color: #ffffff;
+      padding: 34px;
+}
+
+ul.list-group li a{
+      color: #21258A;
+    font-size: 18px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+/*about*/
+.h3-change{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.p-change{
+    color: #1b482d;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+  }
+.img-change img {
+    width: 500px !important;
+    height: 550px;
+}
+.view-change{
+      width: 1416px;
+}
+
+.change-carousel-font{
+       font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+ .change-carousel-h3{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.coursel-top{
+  margin-top:50px;
+}
+
+/*====================================
+                 Work 
+====================================*/
+/*.row.no-gutters [class*=col-]{
+      
+    padding-left: 0;
+    padding-right: 0;
+    
+}*/
+.content-title-underline {
+    width: 30px;
+    height: 3px;
+    background-color: #34c6d3;
+    margin: 0 auto 30px auto;
+}
+.no-gutters [class*="col-"] {
+    margin-right: 0; */
+     margin-left: 0; 
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+.container-full-work {
+    padding-left: 0;
+    padding-right: 0;
+}
+.img-wrapper{
+    overflow: hidden;
+}
+.img-wrapper img {
+    transition: transform .5s;
+    width: 350px;
+    height: 250px;
+}
+.img-wrapper img:hover{
+    
+    transform: scale(1.5);
+    
+}
+
+/*Gallary for css*/
+
+.col-md-6-change{
+      padding-right: 15px;
+    padding-left: 15px;
+    
+    padding-top: 61px;
+}
+
+.span-change {
+    color: #270d0d;
+    font-weight: 500;
+    text-align: center !important;
+    padding-top: 18px;
+
+
+}
+
+.form-light{
+
+    margin-top: 100px;
+
+}
+
+/*appoinment*/
+.appoinment{
+   background-image: url("../img/appoinment/background.jpg");
+   background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 80px;
+}
+.inner-layer{
+ 
+  width: 100%;
+  height:100%;
+  background-color: rgba(0,147,173,0.7);
+  overflow: auto;
+}
+.form-data {
+    margin-top: 90px;
+    background-color: #FFF;
+    margin-bottom: 100px;
+}
+.form-body{
+  padding: 20px;
+}
+.form-head{
+  padding: 10px;
+  border-bottom: 1px solid #CCC;
+}
+.form-head h2{
+  font-size: 22px;
+  font-weight: 600;
+}
+.no-margin{
+  margin: 0px;
+}
+
+.form-row{
+  margin-bottom: 15px;
+}
+.form-control{
+  background-color: #f7f7ff;
+  border-radius: 0px;
+
+}
+.form-control:focus{
+  box-shadow: none;
+  border: 3px solid #138496;
+}
+.btn-appointment{
+  background-color: #138496 !important;
+  border-color: #138496 !important;
+  width: 100%;
+}
+.content{
+  margin-top: 15%;
+  text-align: center;
+  color: #FFF;
+  padding: 30px;
+}
+.content h1{
+  font-weight: 600;
+  font-size: 3.5rem;
+}
+.content h2{
+  font-weight: 600;
+  font-size:2.5rem;
+  margin-top: 20px;
+}
+.content p{
+  font-size: 22px;
+  margin-top: 20px;
+}
+.datepicker td, .datepicker th{
+  padding: 5px;
+}
+.dropdown-menu.datepicker{
+  max-width: 300px !important;
+}
+
+
+@media screen and (max-width: 976px){
+  
+}
